@@ -2,10 +2,34 @@
 Record my mistakes, analysis, and accepted solutions.
 
 - Begin Date: 2/28/2018
-- Duration: 2 months
+- Duration: 3 months
 - Sequence: easy - medium - hard
 - target: Not only the accepted solutions, but also the mistakes that I made.
 
+
+## First Period
+- Easy
+- Numbers of questions: 214 on Leetcode.
+- Duration: 1 months (average speed: 7 solutions / day)
+- Target: 
+*One solution idea
+*Time & Space Complexity
+*Describe solution during coding
+
+
+## Second Period
+- Medium & Review Easy
+- Numbers of questions: About 400 on Leetcode
+- Duration: 2 months (average speed: 7 solutions / day)
+- Target: 
+*Figure out each kind of questions' solutions
+*Review Easy questions
+*Able to pass interviews
+
+## Third Period
+- Hard Questions
+- Depends on mood and situations.
+- To be determined.
 
 ## Questions and Solution Table
 |  #  | Title | Solution | Wrong Solution | Time Complexity| Space Complexity |
