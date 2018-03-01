@@ -1,5 +1,5 @@
 /*
-Step1: find the boarder: what if any string is null? -> return null?
+Step1: find the boundary conditions: what if any string is null? -> return null?
 Step2： Solution:
 
 Initial the default result as "";
