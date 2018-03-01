@@ -42,7 +42,7 @@ public class Solution {
         }        
          if (l2 == null)
         {
-           curList.next = l2;
+           curList.next = l1;
         }
         
         return resultList.next;
