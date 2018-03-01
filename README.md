@@ -9,7 +9,7 @@ Record my mistakes, analysis, and accepted solutions.
 
 ## Questions and Solution Table
 |  #  | Title | Solution | Wrong Solution | Time Complexity| Space Complexity |
-| --- | ----- | -------- | -------------- | ---- |
+| --- | ----- | -------- | -------------- | -------------- | ---------------- |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Easy](./Easy/001-TwoSum.cs) |  | | |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Easy](./Easy/007-ReverseInteger.cs) | [Overflow](./Easy/007-ReverseInteger-Wrong.cs) | | |
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Easy](./Easy/009-PalindromeNumber.cs) | |  | |
