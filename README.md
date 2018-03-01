@@ -40,3 +40,4 @@ Record my mistakes, analysis, and accepted solutions.
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Easy](./Easy/009-PalindromeNumber.cs) | O(n) | O(1) |
 | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Easy](./Easy/013-RomanToInteger.cs) | O(n) | O(n)|
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Easy](./Easy/014-LongestCommonPrefix.cs) | O(S) sum of all characters in all strings. | O(1) |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Easy](./Easy/020-ValidParentheses.cs) | O(n) | O(1) |
