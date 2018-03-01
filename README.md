@@ -8,6 +8,7 @@ Record my mistakes, analysis, and accepted solutions.
 
 
 ## Questions and Solution Table
-|  #  | Title | Solution | Mistakes |
+|  #  | Title | Solution | Wrong Solution |
 | --- | ----- | -------- | -------- |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Easy](./Easy/001-TwoSum.cs) |  |
+| 007 | [Reverse Integer]() | [Easy](./Easy/007-ReverseInteger.cs) | [Overflow](./Easy/007-ReverseInteger-Wrong.cs) |
