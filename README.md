@@ -31,6 +31,7 @@ Record my mistakes, analysis, and accepted solutions.
 - Depends on mood and situations.
 - To be determined.
 
+[Leetcode Page](https://leetcode.com/tiffanywenxin/)
 ## Questions and Solution Table
 |  #  | Title | Solution |  Time Complexity| Space Complexity |
 | --- | ----- | -------- |  -------------- | ---------------- |
