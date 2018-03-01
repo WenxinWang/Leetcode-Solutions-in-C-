@@ -11,4 +11,4 @@ Record my mistakes, analysis, and accepted solutions.
 |  #  | Title | Solution | Wrong Solution |
 | --- | ----- | -------- | -------- |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Easy](./Easy/001-TwoSum.cs) |  |
-| 007 | [Reverse Integer]() | [Easy](./Easy/007-ReverseInteger.cs) | [Overflow](./Easy/007-ReverseInteger-Wrong.cs) |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Easy](./Easy/007-ReverseInteger.cs) | [Overflow](./Easy/007-ReverseInteger-Wrong.cs) |
